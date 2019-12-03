@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Android_advanced-Разрешения_безопасности-Video" external.linked.project.path="$MODULE_DIR$/../../../../../Android advanced/Разрешения безопасности/Video" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Course_Kotlin_русский" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Android advanced/Разрешения безопасности/Video">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Android advanced/Разрешения безопасности/Video/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Android advanced/Разрешения безопасности/Video/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Android advanced/Разрешения безопасности/Video/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
